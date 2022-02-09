@@ -33,3 +33,4 @@ logs
 *.sql
 
 ignorada/
+node_modules/
